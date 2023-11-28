@@ -1,1 +1,8 @@
-
+body {
+p{
+  font-family: Arial;
+  color: Red;
+h1, h2, p, li {
+  font-family: Helvetico;
+} 
+  
