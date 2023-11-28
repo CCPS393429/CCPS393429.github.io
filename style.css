@@ -2,6 +2,9 @@ body {
   background-color: #242f44;
   color: pink;
     font-family: 'Arial', sans-serif;
+  <header>
+      <h1>Nicole Quintos</h1>
+    </header>
 header {
   text-align: center;
   margin-top: 8px; }
@@ -11,4 +14,10 @@ header {
   color: #8c6b48;
   background-color: white;
 }
+  footer>
+      <h1>Nicole</h1>
+      <h1>Quintos</h1>
+      <h1>Galindo</h1>
+    </footer>
+  </body>
 
